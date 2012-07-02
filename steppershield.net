@@ -1,0 +1,260 @@
+# EESchema Netlist Version 1.1 created  So 25 Mär 2012 01:00:17 CET
+(
+ ( /4F6BAB49 C1 C1 100n
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /4F6BAB2B C1V8 C2 47u
+  ( 1 +24V )
+  ( 2 GND )
+ )
+ ( /4F6E4C8B C1 C3 100n
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /4F6E4C8C C1V8 C4 47u
+  ( 1 +24V )
+  ( 2 GND )
+ )
+ ( /4F6E4C98 C1 C5 100n
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /4F6E4C97 C1V8 C6 47u
+  ( 1 +24V )
+  ( 2 GND )
+ )
+ ( /4F6E4CAA C1 C7 100n
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /4F6E4CAB C1V8 C8 47u
+  ( 1 +24V )
+  ( 2 GND )
+ )
+ ( /4F6BAA9D bornier4 P1 CONN_4
+  ( 1 N-000049 )
+  ( 2 N-000048 )
+  ( 3 N-000036 )
+  ( 4 N-000026 )
+ )
+ ( /4F6E4C8E bornier4 P2 CONN_4
+  ( 1 N-000008 )
+  ( 2 N-000020 )
+  ( 3 N-000047 )
+  ( 4 N-000046 )
+ )
+ ( /4F6E4C95 bornier4 P3 CONN_4
+  ( 1 N-000005 )
+  ( 2 N-000002 )
+  ( 3 N-000004 )
+  ( 4 N-000003 )
+ )
+ ( /4F6E4CAD bornier4 P4 CONN_4
+  ( 1 N-000017 )
+  ( 2 N-000053 )
+  ( 3 N-000058 )
+  ( 4 N-000059 )
+ )
+ ( /4F6BAAD4 pin_array_3x2 P5 CONN_3X2
+  ( 1 +5V )
+  ( 2 N-000052 )
+  ( 3 +5V )
+  ( 4 N-000051 )
+  ( 5 +5V )
+  ( 6 N-000050 )
+ )
+ ( /4F6E4C8D pin_array_3x2 P6 CONN_3X2
+  ( 1 +5V )
+  ( 2 N-000045 )
+  ( 3 +5V )
+  ( 4 N-000044 )
+  ( 5 +5V )
+  ( 6 N-000043 )
+ )
+ ( /4F6E4C96 pin_array_3x2 P7 CONN_3X2
+  ( 1 +5V )
+  ( 2 N-000006 )
+  ( 3 +5V )
+  ( 4 N-000012 )
+  ( 5 +5V )
+  ( 6 N-000011 )
+ )
+ ( /4F6E4CAC pin_array_3x2 P8 CONN_3X2
+  ( 1 +5V )
+  ( 2 N-000016 )
+  ( 3 +5V )
+  ( 4 N-000015 )
+  ( 5 +5V )
+  ( 6 N-000014 )
+ )
+ ( /4F6BAA96 bornier2 P9 CONN_2
+  ( 1 +24V )
+  ( 2 GND )
+ )
+ ( /4F6E4D2D SM1206 R1 10k
+  ( 1 MOTOR_DISABLE )
+  ( 2 GND )
+ )
+ ( /4F6BA99C ARDUINO_SHIELD SHIELD1 ARDUINO_SHIELD
+  ( 0 ? )
+  ( 1 ? )
+  ( 2 X_STEP )
+  ( 3 X_DIR )
+  ( 3V3 ? )
+  ( 4 Y_STEP )
+  ( 5 Y_DIR )
+  ( 5V +5V )
+  ( 6 Z_STEP )
+  ( 7 Z_DIR )
+  ( 8 MOTOR_DISABLE )
+  ( 9 ? )
+  ( 10 A_STEP )
+  ( 11 A_DIR )
+  ( 12 ? )
+  ( 13 ? )
+  ( AD0 ? )
+  ( AD1 ? )
+  ( AD2 ? )
+  ( AD3 ? )
+  ( AD4 ? )
+  ( AD5 ? )
+  ( AREF ? )
+  ( GND1 GND )
+  ( GND2 GND )
+  ( GND3 GND )
+  ( RST ? )
+  ( V_IN ? )
+ )
+ ( /4F6BAA6F SWDIP8_.6W U1 POLOLU_A4988
+  ( 1 GND )
+  ( 2 +5V )
+  ( 3 N-000026 )
+  ( 4 N-000036 )
+  ( 5 N-000048 )
+  ( 6 N-000049 )
+  ( 7 GND )
+  ( 8 +24V )
+  ( 9 MOTOR_DISABLE )
+  ( 10 N-000052 )
+  ( 11 N-000051 )
+  ( 12 N-000050 )
+  ( 13 N-000024 )
+  ( 14 N-000024 )
+  ( 15 X_STEP )
+  ( 16 X_DIR )
+ )
+ ( /4F6E4C8F SWDIP8_.6W U2 POLOLU_A4988
+  ( 1 GND )
+  ( 2 +5V )
+  ( 3 N-000046 )
+  ( 4 N-000047 )
+  ( 5 N-000020 )
+  ( 6 N-000008 )
+  ( 7 GND )
+  ( 8 +24V )
+  ( 9 MOTOR_DISABLE )
+  ( 10 N-000045 )
+  ( 11 N-000044 )
+  ( 12 N-000043 )
+  ( 13 N-000009 )
+  ( 14 N-000009 )
+  ( 15 Y_STEP )
+  ( 16 Y_DIR )
+ )
+ ( /4F6E4C94 SWDIP8_.6W U3 POLOLU_A4988
+  ( 1 GND )
+  ( 2 +5V )
+  ( 3 N-000003 )
+  ( 4 N-000004 )
+  ( 5 N-000002 )
+  ( 6 N-000005 )
+  ( 7 GND )
+  ( 8 +24V )
+  ( 9 MOTOR_DISABLE )
+  ( 10 N-000006 )
+  ( 11 N-000012 )
+  ( 12 N-000011 )
+  ( 13 N-000010 )
+  ( 14 N-000010 )
+  ( 15 Z_STEP )
+  ( 16 Z_DIR )
+ )
+ ( /4F6E4CAE SWDIP8_.6W U4 POLOLU_A4988
+  ( 1 GND )
+  ( 2 +5V )
+  ( 3 N-000059 )
+  ( 4 N-000058 )
+  ( 5 N-000053 )
+  ( 6 N-000017 )
+  ( 7 GND )
+  ( 8 +24V )
+  ( 9 MOTOR_DISABLE )
+  ( 10 N-000016 )
+  ( 11 N-000015 )
+  ( 12 N-000014 )
+  ( 13 N-000013 )
+  ( 14 N-000013 )
+  ( 15 A_STEP )
+  ( 16 A_DIR )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ CP*
+ SM*
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ CP*
+ SM*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component U1
+ SWDIP8_.6W
+$endlist
+$component U2
+ SWDIP8_.6W
+$endlist
+$component U3
+ SWDIP8_.6W
+$endlist
+$component U4
+ SWDIP8_.6W
+$endlist
+$endfootprintlist
+}
